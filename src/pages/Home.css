@@ -1,0 +1,6 @@
+.home{
+    display: grid;  
+    grid-auto-columns: 50px;
+    margin: 2rem;
+    gap:2rem;
+}
